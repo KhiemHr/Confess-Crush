@@ -2,8 +2,8 @@ const CONFIG = {
     titleWeb: "Tâm Thư Của K <3",
     introTitle: 'Người Tôi Thương',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
+    Mà sao câụ cứ đi nhầm đường
+    Lạc vào tim tôi lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'Yew Bạn Nhèoo',
     title: 'Phải chăng bạn đã yêu ngay từ cái nhìn đầu tiên 🥰',
@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Mãi Bên Nhau Bạn Nhó',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://youtu.be/E8Jaoe_OI9I' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://fv9-5.failiem.lv/thumb_show.php?i=3r6weyc9t&view' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
